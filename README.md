@@ -1,6 +1,6 @@
 # Introduction to Programming II (C++) 
 # Lab  2-2
-**Part 2-Classes**
+### Part 2-Classes
 
 This project consists of creating a program that represents a small car dealership's inventory using `classes`. 
 
