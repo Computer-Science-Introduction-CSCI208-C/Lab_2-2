@@ -6,9 +6,9 @@ You may assume that each input would have exactly one solution, and you may not 
 
 Example:
 
-``js Given nums = [2, 7, 11, 15], target = 9,
+```js Given nums = [2, 7, 11, 15], target = 9,
 
 Because nums[0] + nums[1] = 2 + 7 = 9,
-return [0, 1]. ``
+return [0, 1]. ```
 
 > [TwoSum-BruteForce](./TwoSum-BruteForce.js)
