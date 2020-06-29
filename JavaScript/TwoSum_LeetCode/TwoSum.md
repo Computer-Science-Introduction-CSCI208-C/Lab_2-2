@@ -21,7 +21,7 @@ return [0, 1].
 
 > [TwoSum-BruteForce](./TwoSum-BruteForce-Solution_1.js)
 
-Nexted for loops
+Nested for loops
 
 ```
 Time complexity : O(n^2)
